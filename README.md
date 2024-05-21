@@ -1,6 +1,6 @@
 Olá! Meu nome é Mauricio Scheffer👋😎
 
-☁️ Me ajude a entrar na Área de T.I!
+☁️ Me ajude a entrar na Área de T.I! <p>
 📘 Atualmente estou me formando como Técnico em Informática! <p>
 💬 Ter a oportunidade de desenvolver-me profissionalmente!
 
