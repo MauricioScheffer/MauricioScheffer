@@ -1,6 +1,7 @@
 Olá! Meu nome é Mauricio Scheffer👋😎
 
-📘 Atualmente estudo JavaScript, HTML, CSS, Java! <p>
+☁️ Me ajude a entrar na Área de T.I!
+📘 Atualmente estou me formando como Técnico em Informática! <p>
 💬 Ter a oportunidade de desenvolver-me profissionalmente!
 
 <div style="display: inline_block"><br>
