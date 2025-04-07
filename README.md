@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a69fc&width=435&lines=I'M+MAURICIO+SCHEFFER;Systems+Development+Technician;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <ul>
-  <li>intern at Meta - São Leopoldo RS<li>  
+  <li>Intern at Meta - São Leopoldo RS</li>
   <li>Systems Analysis and Development - IFSUL University</li>
   <li>Computer Technician - ULBRA RS</li>
 </ul>
