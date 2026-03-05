@@ -1,8 +1,9 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE1bng2NDIxMTk1MHdqb25wdXhhaWlodGpheWdldG1hcGRhcDcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif">
 
-<!-- <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&amp;show_icons=true&amp;theme=bear&amp;include_all_commits=true&amp;count_private=true">
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauricioScheffer&amp;layout=compact&amp;langs_count=7&amp;theme=bear"> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioScheffer&show_icons=true&theme=radical)
+<!-- <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&amp;show_icons=true&amp;theme=bear&amp;include_all_commits=true&amp;count_private=true"> -->
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&show_icons=true&theme=dark">
+
+<!-- https://github-readme-stats.vercel.app/api/top-langs?username=MauricioScheffer&amp;layout=compact&amp;langs_count=7&amp;theme=bear -->
 
 <div style="display: inline-block; aling-items: center; justify-content: center;">
     <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
